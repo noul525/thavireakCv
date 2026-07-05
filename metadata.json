@@ -1,0 +1,6 @@
+{
+  "name": "Sarom Thavireak CV",
+  "description": "The online CV of Sarom Thavireak, displaying profile details, skills, language, relevant experience, education, and interest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
